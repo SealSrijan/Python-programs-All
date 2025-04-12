@@ -1,0 +1,35 @@
+a. Input a welcome message and display it.
+b. Input two numbers and display the larger and the smaller number.
+c. Input three numbers and display the largest and the smallest number.
+d. Generate the following patterns using nested loops:
+
+*
+** 
+***
+**** 
+*****
+
+12345 
+1234 
+123 
+12 
+1
+
+A 
+AB 
+ABC 
+ABCD 
+ABCDE
+
+e. Write a program to input the values of x and n and print the sum of the series (KORBO NAAA).
+f. Determine whether a number is a perfect number, an Armstrong number or a palindrome.
+g. Input a number and check if it is prime or composite.
+h. Display the terms of a Fibonacci series.
+i. Compute the greatest common divisor (GCD) and least common multiple (LCM) of two integers.
+j. Count and display the number of vowels, consonants, uppercase and lowercase characters in a string.
+k. Input a string and (1) determine whether it is a palindrome and (2) convert the case of its characters.
+l. Find the largest and the smallest number in a list or tuple.
+m. Input a list of numbers and swap elements at even positions with those at odd positions.
+n. Input a list or tuple of elements and search for a given element within it.
+o. Create a dictionary of n students (roll number, name and marks) and display the names of students who scored above 75.
+p. Write a random number generator that simulates a dice (generates numbers from 1 to 6).
